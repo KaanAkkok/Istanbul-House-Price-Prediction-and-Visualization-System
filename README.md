@@ -2,7 +2,9 @@
 
 **Submitted By: Kaan Akkök** 
 
-**Submitted To: Asst. Prof. Dr. Ali Cihan Keleş Date: 17/01/2025** 
+**Submitted To: Asst. Prof. Dr. Ali Cihan Keleş**  
+
+**Date: 17/01/2025** 
 
 **Section: 2** 
 
